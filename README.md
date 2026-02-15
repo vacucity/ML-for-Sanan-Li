@@ -1,10 +1,37 @@
-Preface
+# Introduction
+This tutorial covers content from both the CSS299 Stanford Machine Learning course and the machine learning section of the book Machine Learning in Action. All algorithms are accompanied by corresponding practical examples and mathematical derivations (currently being updated). You can follow the learning sequence by lecture number (Lecture0-Lecture16). The update is expected to be completed in about a yea
 
-This tutorial is compiled for two main purposes. First, to systematically review the knowledge I have learned and structure a comprehensive knowledge system, laying a solid foundation for my pursuit of an internship at top-tier companies in the data science field. (At present, my structured notes on core SQL concepts and common interview questions have been organized in a Feishu document; feel free to send me a private message if you need a copy.) Second, to address the common pain point of forgetting what is learned shortly after. During my learning process, I often find that newly acquired knowledge overshadows previous content, leading to fragmented memory. Thus, this tutorial is designed to serve as a core resource for regular review and memory consolidation, driving my input through consistent output to deepen my understanding and mastery of the subject.
+# Contents
+## Introduction
+### Linear Regression
+### Basic knoledge 
 
-I would like to extend my special gratitude to Teacher San'an, who has built this outstanding communication platform and fostered a positive atmosphere for us to discuss ideas and make progress together. As this year is a critical period for Teacher San'an to focus on exam preparation, I hope to contribute my share to the platform to prevent the official WeChat account from going inactive—and this is what inspired the creation and sharing of this tutorial.
+## Unsupervised Learning
 
-Additionally, I previously shared a piece on text analysis on Teacher San'an’s official WeChat account, where many readers asked questions about machine learning in the comment section. To better share knowledge related to Natural Language Processing (NLP) in the future, I have therefore compiled this content on machine learning for the tutorial.
-While I have dabbled in fields including Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Reinforcement Learning (RL), and Large Language Models (LLMs), and accumulated a certain foundation of theoretical knowledge and practical experience, my understanding and expression may still have limitations due to my personal capacity. At present, I am awaiting my study-abroad offers, and I am squeezing time to polish this tutorial while working on my academic thesis and handling occasional internship tasks. The tutorial will be framed around the core knowledge points of the CS229 course and Machine Learning in Action, integrating my practical insights, pitfalls to avoid, and in-depth reflections from the learning process. I strive to make the content both theoretically rigorous and practically applicable.
+### Clustering
+#### K-means
+#### DBSCAN
+#### Gaussian Mixture
 
-Should there be any omissions, errors, or inappropriate expressions in the text, I earnestly request readers to point them out via private message. I will verify and revise the content promptly, and express my sincere gratitude to those who offer valuable suggestions. I also look forward to growing and advancing our capabilities together with all of you through exchanges and discussions.
+### Dimension Reduction
+#### PCA
+#### LLE
+
+## Supervised Learning
+### SVM
+### Logistic
+### Regularized Linear Regression
+### Navie Bayes
+### KNN 
+### Tree
+
+## Ensemble Learning 
+### Random Forest
+### Boosting
+
+# Recommended resources
+#### CS299 https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+#### Math 【【机器学习白板推导】微积分、概率论、支持向量机、决策树、贝叶斯算法、聚类分析、回归算法、生成对抗网络等难懂的机器学习算法一网打尽！—人工智能/机器学习/高等数学】https://www.bilibili.com/video/BV1vreBzBEc2?vd_source=44c1b036a14b68e5e29a1ccaad1c731b
+
+# Contact 
+#### 15527309607@163.com
