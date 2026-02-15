@@ -1,3 +1,6 @@
+![Uploading Gemini_Generated_Image_5u8e0r5u8e0r5u8e.png…]()
+
+
 # Introduction
 This tutorial covers content from both the CSS299 Stanford Machine Learning course and the machine learning section of the book Machine Learning in Action. All algorithms are accompanied by corresponding practical examples and mathematical derivations (currently being updated). You can follow the learning sequence by lecture number (Lecture0-Lecture16). The update is expected to be completed in about two weeks.
 
@@ -8,14 +11,12 @@ This tutorial covers content from both the CSS299 Stanford Machine Learning cour
 
 ## Unsupervised Learning
 
-### Clustering
-#### K-means
-#### DBSCAN
-#### Gaussian Mixture
 
-### Dimension Reduction
-#### PCA
-#### LLE
+### K-means
+### DBSCAN
+### Gaussian Mixture
+### PCA
+### LLE
 
 ## Supervised Learning
 ### SVM
